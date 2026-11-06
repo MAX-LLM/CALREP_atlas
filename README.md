@@ -8,8 +8,8 @@ The atlas contains 1,870 peer-reviewed reports and a separate optional layer of
 164 eligible preprints. It links study-level classifications to an interactive
 evidence map, searchable study browser and research wiki.
 
-- Website: https://max-llm.github.io/LLM_TRACE_atlas/
-- Review agent: https://github.com/max-llm/LLM_TRACE
+- Website: https://max-llm.github.io/CALREP_atlas/
+- Review agent: https://github.com/max-llm/CALREP
 - [Data, build commands and interpretation](evidence_atlas/README.md)
 - [Maintenance and release policy](evidence_atlas/MAINTENANCE.md)
 
